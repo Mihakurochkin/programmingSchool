@@ -1,6 +1,6 @@
-function parimetr(a) {
+function perimeter(a) {
     return a * 4;
 }
 
-let result = parimetr(3);
+let result = perimeter(3);
 console.log(result);
