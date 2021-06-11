@@ -4,4 +4,4 @@ function cube(edge) {
     return {extent, square};
 }
 
-console.log(cube(3));
+console.log(cube(3));5
